@@ -2,7 +2,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <h2 align="left">Heres some info about me <img
-src="https://media1.giphy.com/media/l0MYuXX9btbEsA2S4/giphy.gif?cid=ecf05e47xu137yf5wrz6qh694owunbs966simkugx6q35182&rid=giphy.gif&ct=g" height="32" /></h2>
+src="https://64.media.tumblr.com/15ea403d672462b798c33ed8e59acfed/tumblr_pcrj68fh8w1sfxb96o1_500.gifv" height="60" /></h2>
 
 
 - Hi, I'm Ivan Viquez, a web developer from Costa Rica currently enrolled on a course studying computational logic.
@@ -15,6 +15,10 @@ src="https://media1.giphy.com/media/l0MYuXX9btbEsA2S4/giphy.gif?cid=ecf05e47xu13
  In progress: <a href="https://www.ivanviquez.me/" target="_blank">My site</a>
  
  -Business site coming soon. 
+ 
+ 
+ ## 👀
+ 
  
   ```const ivan = {
   code: [Javascript, Sass, HTML, CSS, Bootstrap, Java],
