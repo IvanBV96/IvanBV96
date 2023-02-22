@@ -2,7 +2,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <h2 align="left">Heres some info about me <img
-src="https://media4.giphy.com/media/vrcoalzSZ7ivu/giphy.gif?cid=ecf05e47sc7msvr1kmcsl64q5rvmbwgrr69nnt4a7ehfyiwd&rid=giphy.gif&ct=g" height="32" /></h2>
+src="https://media4.giphy.com/media/vrcoalzSZ7ivu/giphy.gif?cid=ecf05e47sc7msvr1kmcsl64q5rvmbwgrr69nnt4a7ehfyiwd&rid=giphy.gif&ct=g" height="32"  style="float:right"/></h2>
 
 
 - Hi, I'm Ivan Viquez,I'm 26 and a web developer from Costa Rica currently enrolled on a course studying computational logic.
@@ -33,7 +33,6 @@ src="https://media4.giphy.com/media/vrcoalzSZ7ivu/giphy.gif?cid=ecf05e47sc7msvr1
 ```
 ## Stack
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
