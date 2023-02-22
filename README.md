@@ -2,10 +2,10 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 <h2 align="left">Heres some info about me <img
-src="![image](https://user-images.githubusercontent.com/101119118/220789114-d9e71e94-53c1-40b1-a259-6ee39aab2fa1.png)" height="60" /></h2>
+src="https://media4.giphy.com/media/sQ5jimwRnCqkw/giphy.gif?cid=ecf05e47la1novsfo08a88fd4bvtuviydq4dgytpz99zrp65&rid=giphy.gif&ct=g" height="32" /></h2>
 
 
-- Hi, I'm Ivan Viquez, a web developer from Costa Rica currently enrolled on a course studying computational logic.
+- Hi, I'm Ivan Viquez,I'm 26 and a web developer from Costa Rica currently enrolled on a course studying computational logic.
 - 🔭 I’m currently researching at the intersection of Web Developement and can't forget about Linux.
 - 💬 Brainstorm with me over tech, job opportunities, career, and music 
 - 📫 How to reach me: ivanviquezna123@gmail.com
