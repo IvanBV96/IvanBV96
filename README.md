@@ -20,7 +20,8 @@ src="https://media4.giphy.com/media/vrcoalzSZ7ivu/giphy.gif?cid=ecf05e47sc7msvr1
  ## 👀
  
  
-  ```const ivan = {
+  ```
+  const ivan = {
   code: [Javascript, Sass, HTML, CSS, Bootstrap, Java],
   tools: [AWS, Route53, Linux-Ubuntu, Wordpress, Npm, Docker],
   currentlyLearning: ["More Javascript", "PHP", "Python"],
