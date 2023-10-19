@@ -5,7 +5,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 src="https://media4.giphy.com/media/vrcoalzSZ7ivu/giphy.gif?cid=ecf05e47sc7msvr1kmcsl64q5rvmbwgrr69nnt4a7ehfyiwd&rid=giphy.gif&ct=g" height="32"  style="float:right"/></h2>
 
 
-- Hi, I'm Ivan Viquez, I'm 26 and a web developer from Costa Rica currently enrolled on a course studying computational logic.
+- Hi, I'm Ivan Viquez, I'm 26 and a web developer from Costa Rica.
 - 🔭 I’m currently researching at the intersection of Web Developement and can't forget about Linux.
 - 💬 Brainstorm with me over tech, job opportunities, career, and music 
 - 📫 How to reach me: ivanviquezna123@gmail.com
